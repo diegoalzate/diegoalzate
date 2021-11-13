@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### My name is Diego Alzate, I'm into backend and dev ops.
+#### My name is Diego Alzate, I'm into backend and web3.
 #### I don't like to talk much about myself but maybe my music tastes gives you a better idea of who i am :)
 ##### wookring on sportify integration with this read me
 ##### 📫 How to reach me: https://twitter.com/diegoalzate00
