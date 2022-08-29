@@ -1,6 +1,6 @@
 ## Hi there 👋
-#### My name is Diego Alzate, I'm into backend and web3.
-#### I don't like to talk much about myself but maybe my music tastes gives you a better idea of who i am :)
+#### My name is Diego Alzate, I'm into fullstack develpment and web3.
+#### I don't like to talk much about myself but maybe if you are interested in any of my projects just reach out
 ##### 📫 How to reach me: https://twitter.com/diegoalzate00
 <!--
 **diegoalzate/diegoalzate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
