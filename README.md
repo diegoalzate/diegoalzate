@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### My name is Diego Alzate, I'm into fullstack develpment and web3.
+#### My name is Diego Alzate, I'm into fullstack develpment and creating products for people.
 #### I don't like to talk much about myself but maybe if you are interested in any of my projects just reach out
 ##### 📫 How to reach me: https://twitter.com/diegoalzate00
 <!--
